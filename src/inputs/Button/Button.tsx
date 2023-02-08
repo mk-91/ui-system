@@ -1,5 +1,7 @@
-import { PropsWithChildren } from "preact/compat";
-import { h } from "preact";
+import { PropsWithChildren } from 'preact/compat';
+import { h } from 'preact';
+
+import * as styles from './Button.module.css';
 
 interface ButtonProps {}
 
