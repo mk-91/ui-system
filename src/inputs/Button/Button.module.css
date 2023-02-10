@@ -48,3 +48,19 @@
   border: 1px solid rgba(28, 27, 31, 0.12);
   box-shadow: unset;
 }
+
+.loadingPrimary,
+.loadingPrimary:hover {
+  background: #ff90e8;
+  color: #ffffff;
+  border: 1px transparent;
+  box-shadow: unset;
+}
+
+.loadingSecondary,
+.loadingSecondary:hover {
+  background: #90a8ed;
+  color: #ffffff;
+  border: 1px transparent;
+  box-shadow: unset;
+}
